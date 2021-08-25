@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    var liffId = "（自分のLiffIdを入力）";
+    var liffId = "1656184032-VzeAXbM3";
     initializeLiff(liffId);
 })
 
