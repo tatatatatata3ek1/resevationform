@@ -2,7 +2,7 @@ $(function(){
     // 送信
     $('form').submit(function () {
         var date = $('input[name="date"]').val();
-        var number = $('input[name="volume"]').val();
+        var volume = $('input[name="volume"]').val();
         var name = $('input[name="name"]').val();
         var adress = $('input[name="adress"]').val();
         })
