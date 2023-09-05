@@ -1,4 +1,4 @@
-
+$(function(){
     // 送信
     $('form').submit(function () {
         var date = $('input[name="date"]').val();
