@@ -6,8 +6,7 @@
         var name = $('input[name="name"]').val();
         var adress = $('input[name="adress"]').val();
         })
-        names = names.slice(0, -1);
-
+        
         var msg = `①氏名:${name} ②住所:${adress} ③希望日:${date} ④数量:${volume}`;
         sendMessage(msg);
 
